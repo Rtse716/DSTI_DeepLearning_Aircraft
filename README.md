@@ -4,6 +4,8 @@ This project aims to classify 20 military aircraft types found in jpg chips of s
 
 This project is on run on google colab using tensorflow 2.15.0, keras 2.15.0, and python 3.10.12
 
+Data can be found at: https://www.kaggle.com/datasets/khlaifiabilel/military-aircraft-recognition-dataset
+
 # Contact
 Rina Tse - tserina716@gmail.com
 
